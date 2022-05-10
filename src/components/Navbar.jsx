@@ -22,6 +22,7 @@ const Navbar = () => {
           <li><Link to="about" smooth={true} offset={-100} duration={500}>About us</Link></li>
           </ul>
         </div>
+        
         <div className='hidden md:flex pr-4'>
           <button className='px-8 py-3'>Connect Wallet</button>
         </div>

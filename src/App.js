@@ -1,10 +1,13 @@
 // import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 import Solutions from './components/Solutions';
 
+
 function App() {
+  
   return (
     <>
     <Navbar/>
